@@ -3,7 +3,6 @@
 👋 Welcome to my corner of GitHub!
 
 ## 👨‍💻 About Me 
-Hi there! 👋 I'm a passionate and results-driven .NET Full Stack Developer with 5 years of professional experience building scalable, efficient, and user-friendly windows / web applications & API Services. I specialize in bridging the gap between back-end functionality and front-end elegance, ensuring seamless experiences for both users and businesses.
-
+Hello there! 👋 I'm a ".NET Full Stack Developer" with five years of professional experience creating scalable, effective, and user-friendly Windows/web apps and API services. I'm a dedicated and enthusiastic individual. I specialise in bridging the gap between back-end functionality and front-end elegance to provide seamless experiences for both consumers and businesses.
 
 
