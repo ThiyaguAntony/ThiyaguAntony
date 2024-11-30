@@ -1,4 +1,4 @@
-# 🌟 Hello, World! I'm Thiyagu Antony 🌟
+# 🌟 Hi, I'm Thiyagu Antony 🌟
 ###### Software Tech-Lead / Engineer @Rax Tech International
 ---
 *Welcome to my corner of GitHub!*
