@@ -13,5 +13,4 @@ Hello there! 👋 I'm a **.NET Full Stack Developer** with ***five years of prof
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/thiyagu-antony/) or [Email](antonythiyagu29@gmail.com).
 
 #### 💻 I Code in
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript--v1"/><img width="50" height="50" src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" alt="c-sharp-logo-2"/>
-<img width="100" height="50" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="net-framework"/><img width="60" height="60" src="https://img.icons8.com/fluency/48/net-framework.png" alt="net-Core"/><img width="250" height="80" src="https://aspfree.com/wp-content/uploads/2023/01/ASP.NET-MVC.jpg" alt="net-framework"/>
+<img width="950" height="93" src="https://github.com/ThiyaguAntony/ThiyaguAntony/blob/main/linkedin%20banner%20(3).png" alt="html-5--v1"/>
