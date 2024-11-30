@@ -17,5 +17,6 @@ Hello there! 👋 I'm a **.NET Full Stack Developer** with ***five years of prof
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> 
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript--v1"/>
 <img width="50" height="50" src="https://icons-for-free.com/iff/png/256/csharp+plain-1324760527445397616.png" alt="c-sharp-logo-2"/>
-<img width="50" height="50" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="net-framework"/><img width="100" height="48" src="https://img.icons8.com/fluency/48/net-framework.png" alt="net-Core"/>
+<img width="100" height="50" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="net-framework"/>
+<img width="50" height="48" src="https://img.icons8.com/fluency/48/net-framework.png" alt="net-Core"/>
 <img width="150" height="48" src="https://aspfree.com/wp-content/uploads/2023/01/ASP.NET-MVC.jpg" alt="net-framework"/>
