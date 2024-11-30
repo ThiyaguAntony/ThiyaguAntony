@@ -13,4 +13,4 @@ Hello there! 👋 I'm a **.NET Full Stack Developer** with ***five years of prof
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/thiyagu-antony/) or [Email](antonythiyagu29@gmail.com).
 
 #### 💻 I Code in
-<img width="950" height="93" src="https://github.com/ThiyaguAntony/ThiyaguAntony/blob/main/linkedin%20banner%20(3).png" alt="html-5--v1"/>
+<img width="770" height="76" src="https://github.com/ThiyaguAntony/ThiyaguAntony/blob/main/linkedin%20banner%20(3).png" alt="html-5--v1"/>
