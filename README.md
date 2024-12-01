@@ -13,7 +13,7 @@ Hello there! 👋 I'm a **.NET Full Stack Developer** with ***five years of prof
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/thiyagu-antony/) or [Email](antonythiyagu29@gmail.com).
 
 #### 💻 I Code in
-<img width="770" height="76" src="https://raw.githubusercontent.com/ThiyaguAntony/ThiyaguAntony/refs/heads/main/banner.png" alt="html-5--v1"/>
+<img width="790" height="76" src="https://raw.githubusercontent.com/ThiyaguAntony/ThiyaguAntony/refs/heads/main/banner.png" alt="html-5--v1"/>
 
 #### 🔧 IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/notepad-plus-plus.png" alt="notepad-plus-plus"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo.png" alt="external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo"/>
